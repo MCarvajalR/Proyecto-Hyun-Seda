@@ -41,7 +41,11 @@ Aqui pondremos la estrategia de pruebas utilizada en el proyecto y cómo se llev
 
 ## Documentación de las APIs REST con Swagger
 
-Aqui pondremos cómo se documentaron las APIs REST utilizando Swagger y proporciona ejemplos si es posible.
+![Software Swagger Doc](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/SwaggerDoc.png)
+
+*Este es una demostración de la documentación swagger que empleamos para los métodos*
+
+Aqui pondremos mas ejemplos de cómo se documentaron las APIs REST utilizando Swagger y proporciona ejemplos si es posible.
 
 ---
 
