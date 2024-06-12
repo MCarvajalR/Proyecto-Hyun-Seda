@@ -35,7 +35,8 @@ En el contexto de la necesidad de una solución rentable y fácilmente mantenibl
 
 ## Pruebas
 
-Aqui pondremos la estrategia de pruebas utilizada en el proyecto y cómo se llevaron a cabo.
+![Software Test Product](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/TestCreateProd.png)
+*Este es un ejemplo de la implementacion de Tests para validar la creacion de Productos*
 
 ---
 
@@ -45,18 +46,21 @@ Aqui pondremos la estrategia de pruebas utilizada en el proyecto y cómo se llev
 
 *Este es una demostración de la documentación swagger que empleamos para los métodos*
 
-Aqui pondremos mas ejemplos de cómo se documentaron las APIs REST utilizando Swagger y proporciona ejemplos si es posible.
-
 ---
 
 ## Implementación de Autenticación y Autorización con JWT
 
-Aqui pondremos cómo se implementó la autenticación y autorización utilizando JWT (JSON Web Tokens) en el proyecto.
+![Software JWT Aut Filter](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/JWTAut.png)
+*Esta es una demostracion de la implemetacion del JWTAuthenticationFilter para validar los usuarios en el proyecto.*
+
+![Software JWT Util](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/JWTUtil.png)
+*Esta es una demostracion de la implemetacion del JWTUltil para generar y validar los tokens.*
 
 ---
 
 ## Demo en Video de la App
-<iframe src="https://drive.google.com/file/d/18BXmd5F5iKFX5ngxPZEVmpN5aBaBZpqY/preview" width="640" height="480" allow="autoplay"></iframe>
+
+https://drive.google.com/file/d/18BXmd5F5iKFX5ngxPZEVmpN5aBaBZpqY/preview
 
 ---
 
