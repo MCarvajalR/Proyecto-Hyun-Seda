@@ -38,6 +38,10 @@ En el contexto de la necesidad de una solución rentable y fácilmente mantenibl
 ![Software Test Product](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/TestCreateProd.png)
 *Este es un ejemplo de la implementacion de Tests para validar la creacion de Productos*
 
+
+![Software Test GetProductById](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/TestGetById.png)
+*Este es un ejemplo de la implementacion de Tests para validar busquedas por Id*
+
 ---
 
 ## Documentación de las APIs REST con Swagger
@@ -52,6 +56,9 @@ En el contexto de la necesidad de una solución rentable y fácilmente mantenibl
 
 ![Software JWT Aut Filter](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/JWTAut.png)
 *Esta es una demostracion de la implemetacion del JWTAuthenticationFilter para validar los usuarios en el proyecto.*
+
+
+
 
 ![Software JWT Util](https://github.com/MCarvajalR/Proyecto-Hyun-Seda/blob/master/JWTUtil.png)
 *Esta es una demostracion de la implemetacion del JWTUltil para generar y validar los tokens.*
