@@ -9,7 +9,7 @@
 - [Pruebas](#pruebas)
 - [Documentación de las APIs REST con Swagger](#documentación-de-las-apis-rest-con-swagger)
 - [Implementación de Autenticación y Autorización con JWT](#implementación-de-autenticación-y-autorización-con-jwt)
-- [Demo en Video de la Aplicación Funcionando](#demo-en-video-de-la-aplicación-funcionando)
+- [Demo en Video de la App](#demo-en-video-de-la-app)
 
 ---
 
